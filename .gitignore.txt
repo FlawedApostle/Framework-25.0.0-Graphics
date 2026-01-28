@@ -1,0 +1,12 @@
+# Ignore Visual Studio Build Outputs
+Debug/
+Release/
+x64/
+*.exe
+*.pdb
+*.user
+*.obj
+.vs/
+# I dont care how deep the file is dont touch it - double pointer
+**/.vs/
+*.db
