@@ -1,0 +1,142 @@
+Wed Jan 28 07:10:05 2026
+[INFO]: Starting the SceneManager
+[INFO]: OpenGL version: 4.6.0 NVIDIA 591.74
+[INFO]: Graphics card vendor NVIDIA Corporation
+[INFO]: Graphics card name NVIDIA GeForce RTX 3060/PCIe/SSE2
+[INFO]: GLSL Version 4.60 NVIDIA
+[INFO]: Created Scene8: 
+[INFO]: Loading assets Scene8: 
+[INFO]: Uniforms:
+"heightMapText" loc:0
+"lightposition" loc:1
+"modelMatrix" loc:2
+"normal_Map" loc:3
+"projectionMatrix" loc:4
+"terrainDiffuse_map" loc:5
+"tesslevelControl" loc:6
+"viewMatrix" loc:7
+
+[INFO]: Deleting assets Scene8: 
+[INFO]: Deleted Scene8: 
+[INFO]: Created Scene0: 
+[INFO]: Loading assets Scene0: 
+[INFO]: Uniforms:
+"lightPos" loc:0
+"modelMatrix" loc:1
+"projectionMatrix" loc:2
+"viewMatrix" loc:3
+
+[INFO]: Deleting assets Scene0: 
+[INFO]: Deleted Scene0: 
+[INFO]: Created Scene2g: 
+[INFO]: Loading assets Scene2g: 
+[INFO]: Uniforms:
+"k_ambient0" loc:0
+"k_ambient1" loc:1
+"k_ambient2" loc:2
+"k_ambient3" loc:3
+"k_diffuse0" loc:4
+"k_diffuse1" loc:5
+"k_diffuse2" loc:6
+"k_diffuse3" loc:7
+"k_specular0" loc:8
+"k_specular1" loc:9
+"k_specular2" loc:10
+"k_specular3" loc:11
+"light_position_four" loc:12
+"light_position_one" loc:13
+"light_position_three" loc:14
+"light_position_two" loc:15
+"modelMatrix" loc:16
+"projectionMatrix" loc:17
+"spec_exponent_value_1" loc:18
+"spec_exponent_value_2" loc:19
+"spec_exponent_value_3" loc:20
+"viewMatrix" loc:21
+
+[INFO]: Deleting assets Scene2g: 
+[INFO]: Deleted Scene2g: 
+[INFO]: Created Scene3g: 
+[INFO]: Loading assets Scene3g: 
+[INFO]: Uniforms:
+"AMB[0]" loc:0
+"DIFF[0]" loc:4
+"LIGHT_POSITION[0]" loc:8
+"SPEC[0]" loc:10
+"light_position_four" loc:14
+"light_position_one" loc:15
+"light_position_three" loc:16
+"light_position_two" loc:17
+"modelMatrix" loc:18
+"projectionMatrix" loc:19
+"viewMatrix" loc:20
+
+[INFO]: Deleting assets Scene3g: 
+[INFO]: Deleted Scene3g: 
+[INFO]: Created Scene4g: 
+[INFO]: Loading assets Scene4g: 
+[INFO]: Uniforms:
+"AMB[0]" loc:0
+"DIFF[0]" loc:4
+"LIGHT_POSITION[0]" loc:8
+"SPEC[0]" loc:10
+"SPECULAR_EXPONENT[0]" loc:14
+"modelMatrix" loc:18
+"myTexture" loc:19
+"projectionMatrix" loc:20
+"viewMatrix" loc:21
+
+[INFO]: Deleting assets Scene4g: 
+[INFO]: Deleted Scene4g: 
+[INFO]: Created Scene5g: 
+[INFO]: Loading assets Scene5g: 
+[INFO]: Loading assets SkyBox: 
+[INFO]: Uniforms:
+"projectionMatrix" loc:0
+"skybox" loc:1
+"viewMatrix" loc:2
+
+[INFO]: Uniforms:
+"AMB[0]" loc:0
+"DIFF[0]" loc:4
+"LIGHT_POSITION[0]" loc:8
+"SPEC[0]" loc:10
+"modelMatrix" loc:14
+"projectionMatrix" loc:15
+"viewMatrix" loc:16
+
+[INFO]: Deleting assets Scene5g: 
+[INFO]: Deleted Scene5g: 
+[INFO]: Created Scene6g: 
+[INFO]: Loading assets Scene6g: 
+[INFO]: Loading assets SkyBox: 
+[INFO]: Uniforms:
+"projectionMatrix" loc:0
+"skybox" loc:1
+"viewMatrix" loc:2
+
+[INFO]: Uniforms:
+"modelMatrix" loc:0
+"projectionMatrix" loc:1
+"skybox" loc:2
+"viewMatrix" loc:3
+
+[INFO]: Deleting assets Scene6g: 
+[INFO]: Deleted Scene6g: 
+[INFO]: Created Scene7g: 
+[INFO]: Loading assets Scene7g: 
+[INFO]: Loading assets SkyBox: 
+[INFO]: Uniforms:
+"projectionMatrix" loc:0
+"skybox" loc:1
+"viewMatrix" loc:2
+
+[INFO]: Uniforms:
+"modelMatrix" loc:0
+"projectionMatrix" loc:1
+"skybox" loc:2
+"viewMatrix" loc:3
+
+[INFO]: Deleting the SceneManager
+[INFO]: Deleting assets Scene7g: 
+[INFO]: Deleted Scene7g: 
