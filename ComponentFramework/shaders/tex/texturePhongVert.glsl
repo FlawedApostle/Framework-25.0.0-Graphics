@@ -18,12 +18,12 @@ layout(location = 5) out vec3 LIGHT_DIRECTION[2];                   // direction
 
 
 void main() {
-    textureCoords = uvCoord;    // TEXTURE
-    	textureCoords.x =  uvCoord.x;   // why ? clarification please
+        textureCoords = uvCoord;                                    // TEXTURE
+    	textureCoords.x =  uvCoord.x;                               // why ? clarification please
     	textureCoords.y = -uvCoord.y;   
 
     mat3 normalMatrix = mat3(transpose(inverse(modelMatrix)));
-    vertNormal = normalize(normalMatrix * vNormal); /// Rotate the normal to the correct orientation 
+    vertNormal = normalize(normalMatrix * vNormal);                 /// Rotate the normal to the correct orientation 
     vec3 vertPos = vec3(viewMatrix * modelMatrix * vVertex);
     vec3 vertDir = normalize(vertPos);
     eyeDir = -vertDir;
