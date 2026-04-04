@@ -1,5 +1,5 @@
 ///									FILENAME:: (phongFrag3g / phongVert3g) working as of 2025 / 05 / 28 10:30 AM
-///	Note:: the Vert and Frag shader is correct, the array, along with the formula. Do not f***** with it please !
+///	Note:: the Vert and Frag shader is correct, the array, along with the formula. Do not f***** with it please ! 
 #include <glew.h>
 #include <SDL.h>
 #include "Scene5g.h"			/// scene5g.h  Graphics skybox A3

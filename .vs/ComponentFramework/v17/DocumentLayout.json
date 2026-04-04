@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics_cpy\\",
+  "WorkspaceRootPath": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{614C2865-E38B-423B-8A72-E9D57BC43A73}|ComponentFramework\\ComponentFramework.vcxproj|E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics_cpy\\ComponentFramework\\Scene5g.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{614C2865-E38B-423B-8A72-E9D57BC43A73}|ComponentFramework\\ComponentFramework.vcxproj|E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\Scene5g.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{614C2865-E38B-423B-8A72-E9D57BC43A73}|ComponentFramework\\ComponentFramework.vcxproj|solutionrelative:ComponentFramework\\Scene5g.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{614C2865-E38B-423B-8A72-E9D57BC43A73}|ComponentFramework\\ComponentFramework.vcxproj|E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics_cpy\\ComponentFramework\\SceneManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{614C2865-E38B-423B-8A72-E9D57BC43A73}|ComponentFramework\\ComponentFramework.vcxproj|E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\SceneManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{614C2865-E38B-423B-8A72-E9D57BC43A73}|ComponentFramework\\ComponentFramework.vcxproj|solutionrelative:ComponentFramework\\SceneManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{614C2865-E38B-423B-8A72-E9D57BC43A73}|ComponentFramework\\ComponentFramework.vcxproj|E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics_cpy\\ComponentFramework\\shaders\\tex\\texturePhongFrag.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{614C2865-E38B-423B-8A72-E9D57BC43A73}|ComponentFramework\\ComponentFramework.vcxproj|E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\shaders\\tex\\texturePhongFrag.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{614C2865-E38B-423B-8A72-E9D57BC43A73}|ComponentFramework\\ComponentFramework.vcxproj|solutionrelative:ComponentFramework\\shaders\\tex\\texturePhongFrag.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{614C2865-E38B-423B-8A72-E9D57BC43A73}|ComponentFramework\\ComponentFramework.vcxproj|E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics_cpy\\ComponentFramework\\shaders\\tex\\texturePhongVert.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{614C2865-E38B-423B-8A72-E9D57BC43A73}|ComponentFramework\\ComponentFramework.vcxproj|E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\shaders\\tex\\texturePhongVert.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{614C2865-E38B-423B-8A72-E9D57BC43A73}|ComponentFramework\\ComponentFramework.vcxproj|solutionrelative:ComponentFramework\\shaders\\tex\\texturePhongVert.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{614C2865-E38B-423B-8A72-E9D57BC43A73}|ComponentFramework\\ComponentFramework.vcxproj|E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics_cpy\\ComponentFramework\\Scene4g.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{614C2865-E38B-423B-8A72-E9D57BC43A73}|ComponentFramework\\ComponentFramework.vcxproj|E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\Scene4g.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{614C2865-E38B-423B-8A72-E9D57BC43A73}|ComponentFramework\\ComponentFramework.vcxproj|solutionrelative:ComponentFramework\\Scene4g.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -36,11 +36,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Scene5g.cpp",
-              "DocumentMoniker": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics_cpy\\ComponentFramework\\Scene5g.cpp",
+              "DocumentMoniker": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\Scene5g.cpp",
               "RelativeDocumentMoniker": "ComponentFramework\\Scene5g.cpp",
-              "ToolTip": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics_cpy\\ComponentFramework\\Scene5g.cpp",
+              "ToolTip": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\Scene5g.cpp",
               "RelativeToolTip": "ComponentFramework\\Scene5g.cpp",
-              "ViewState": "AgIAABgAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAByAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-04-01T17:25:56.233Z",
               "EditorCaption": ""
@@ -49,22 +49,21 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "texturePhongFrag.glsl",
-              "DocumentMoniker": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics_cpy\\ComponentFramework\\shaders\\tex\\texturePhongFrag.glsl",
+              "DocumentMoniker": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\shaders\\tex\\texturePhongFrag.glsl",
               "RelativeDocumentMoniker": "ComponentFramework\\shaders\\tex\\texturePhongFrag.glsl",
-              "ToolTip": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics_cpy\\ComponentFramework\\shaders\\tex\\texturePhongFrag.glsl",
+              "ToolTip": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\shaders\\tex\\texturePhongFrag.glsl",
               "RelativeToolTip": "ComponentFramework\\shaders\\tex\\texturePhongFrag.glsl",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-03-21T16:20:33.109Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-21T16:20:33.109Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "texturePhongVert.glsl",
-              "DocumentMoniker": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics_cpy\\ComponentFramework\\shaders\\tex\\texturePhongVert.glsl",
+              "DocumentMoniker": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\shaders\\tex\\texturePhongVert.glsl",
               "RelativeDocumentMoniker": "ComponentFramework\\shaders\\tex\\texturePhongVert.glsl",
-              "ToolTip": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics_cpy\\ComponentFramework\\shaders\\tex\\texturePhongVert.glsl",
+              "ToolTip": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\shaders\\tex\\texturePhongVert.glsl",
               "RelativeToolTip": "ComponentFramework\\shaders\\tex\\texturePhongVert.glsl",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvxYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
@@ -74,9 +73,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Scene4g.cpp",
-              "DocumentMoniker": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics_cpy\\ComponentFramework\\Scene4g.cpp",
+              "DocumentMoniker": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\Scene4g.cpp",
               "RelativeDocumentMoniker": "ComponentFramework\\Scene4g.cpp",
-              "ToolTip": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics_cpy\\ComponentFramework\\Scene4g.cpp",
+              "ToolTip": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\Scene4g.cpp",
               "RelativeToolTip": "ComponentFramework\\Scene4g.cpp",
               "ViewState": "AgIAAEgAAAAAAAAAAADwv/YAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -86,14 +85,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "SceneManager.cpp",
-              "DocumentMoniker": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics_cpy\\ComponentFramework\\SceneManager.cpp",
+              "DocumentMoniker": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\SceneManager.cpp",
               "RelativeDocumentMoniker": "ComponentFramework\\SceneManager.cpp",
-              "ToolTip": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics_cpy\\ComponentFramework\\SceneManager.cpp",
+              "ToolTip": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\SceneManager.cpp",
               "RelativeToolTip": "ComponentFramework\\SceneManager.cpp",
               "ViewState": "AgIAAJMAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-21T16:17:58.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-21T16:17:58.934Z"
             }
           ]
         },
