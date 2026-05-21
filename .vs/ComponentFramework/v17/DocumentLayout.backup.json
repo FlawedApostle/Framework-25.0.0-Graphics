@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{614C2865-E38B-423B-8A72-E9D57BC43A73}|ComponentFramework\\ComponentFramework.vcxproj|E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\Body.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{614C2865-E38B-423B-8A72-E9D57BC43A73}|ComponentFramework\\ComponentFramework.vcxproj|solutionrelative:ComponentFramework\\Body.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{614C2865-E38B-423B-8A72-E9D57BC43A73}|ComponentFramework\\ComponentFramework.vcxproj|E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\Scene5g.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{614C2865-E38B-423B-8A72-E9D57BC43A73}|ComponentFramework\\ComponentFramework.vcxproj|solutionrelative:ComponentFramework\\Scene5g.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -35,6 +39,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Body.cpp",
+              "DocumentMoniker": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\Body.cpp",
+              "RelativeDocumentMoniker": "ComponentFramework\\Body.cpp",
+              "ToolTip": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\Body.cpp",
+              "RelativeToolTip": "ComponentFramework\\Body.cpp",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAAHkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-09T16:40:29.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Scene5g.cpp",
               "DocumentMoniker": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\Scene5g.cpp",
               "RelativeDocumentMoniker": "ComponentFramework\\Scene5g.cpp",
@@ -47,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "texturePhongFrag.glsl",
               "DocumentMoniker": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\shaders\\tex\\texturePhongFrag.glsl",
               "RelativeDocumentMoniker": "ComponentFramework\\shaders\\tex\\texturePhongFrag.glsl",
@@ -59,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "texturePhongVert.glsl",
               "DocumentMoniker": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\shaders\\tex\\texturePhongVert.glsl",
               "RelativeDocumentMoniker": "ComponentFramework\\shaders\\tex\\texturePhongVert.glsl",
@@ -71,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Scene4g.cpp",
               "DocumentMoniker": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\Scene4g.cpp",
               "RelativeDocumentMoniker": "ComponentFramework\\Scene4g.cpp",
@@ -83,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SceneManager.cpp",
               "DocumentMoniker": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\SceneManager.cpp",
               "RelativeDocumentMoniker": "ComponentFramework\\SceneManager.cpp",
