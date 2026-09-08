@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{614C2865-E38B-423B-8A72-E9D57BC43A73}|ComponentFramework\\ComponentFramework.vcxproj|E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\Body.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{614C2865-E38B-423B-8A72-E9D57BC43A73}|ComponentFramework\\ComponentFramework.vcxproj|solutionrelative:ComponentFramework\\Body.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{614C2865-E38B-423B-8A72-E9D57BC43A73}|ComponentFramework\\ComponentFramework.vcxproj|E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\Scene5g.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{614C2865-E38B-423B-8A72-E9D57BC43A73}|ComponentFramework\\ComponentFramework.vcxproj|solutionrelative:ComponentFramework\\Scene5g.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{614C2865-E38B-423B-8A72-E9D57BC43A73}|ComponentFramework\\ComponentFramework.vcxproj|E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\SceneManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{614C2865-E38B-423B-8A72-E9D57BC43A73}|ComponentFramework\\ComponentFramework.vcxproj|solutionrelative:ComponentFramework\\SceneManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{614C2865-E38B-423B-8A72-E9D57BC43A73}|ComponentFramework\\ComponentFramework.vcxproj|E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\shaders\\tex\\texturePhongFrag.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{614C2865-E38B-423B-8A72-E9D57BC43A73}|ComponentFramework\\ComponentFramework.vcxproj|solutionrelative:ComponentFramework\\shaders\\tex\\texturePhongFrag.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{614C2865-E38B-423B-8A72-E9D57BC43A73}|ComponentFramework\\ComponentFramework.vcxproj|E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\Scene4g.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{614C2865-E38B-423B-8A72-E9D57BC43A73}|ComponentFramework\\ComponentFramework.vcxproj|solutionrelative:ComponentFramework\\Scene4g.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614C2865-E38B-423B-8A72-E9D57BC43A73}|ComponentFramework\\ComponentFramework.vcxproj|E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\SceneManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{614C2865-E38B-423B-8A72-E9D57BC43A73}|ComponentFramework\\ComponentFramework.vcxproj|solutionrelative:ComponentFramework\\SceneManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{614C2865-E38B-423B-8A72-E9D57BC43A73}|ComponentFramework\\ComponentFramework.vcxproj|E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\shaders\\tex\\texturePhongVert.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{614C2865-E38B-423B-8A72-E9D57BC43A73}|ComponentFramework\\ComponentFramework.vcxproj|solutionrelative:ComponentFramework\\shaders\\tex\\texturePhongVert.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{614C2865-E38B-423B-8A72-E9D57BC43A73}|ComponentFramework\\ComponentFramework.vcxproj|E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\Scene4g.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{614C2865-E38B-423B-8A72-E9D57BC43A73}|ComponentFramework\\ComponentFramework.vcxproj|solutionrelative:ComponentFramework\\Scene4g.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{614C2865-E38B-423B-8A72-E9D57BC43A73}|ComponentFramework\\ComponentFramework.vcxproj|E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\Scene8g.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{614C2865-E38B-423B-8A72-E9D57BC43A73}|ComponentFramework\\ComponentFramework.vcxproj|solutionrelative:ComponentFramework\\Scene8g.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614C2865-E38B-423B-8A72-E9D57BC43A73}|ComponentFramework\\ComponentFramework.vcxproj|E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\Scene8g.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{614C2865-E38B-423B-8A72-E9D57BC43A73}|ComponentFramework\\ComponentFramework.vcxproj|solutionrelative:ComponentFramework\\Scene8g.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614C2865-E38B-423B-8A72-E9D57BC43A73}|ComponentFramework\\ComponentFramework.vcxproj|E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\Body.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{614C2865-E38B-423B-8A72-E9D57BC43A73}|ComponentFramework\\ComponentFramework.vcxproj|solutionrelative:ComponentFramework\\Body.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,44 +42,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "Scene8g.cpp",
+              "DocumentMoniker": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\Scene8g.cpp",
+              "RelativeDocumentMoniker": "ComponentFramework\\Scene8g.cpp",
+              "ToolTip": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\Scene8g.cpp",
+              "RelativeToolTip": "ComponentFramework\\Scene8g.cpp",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-07T15:15:51.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Scene8g.h",
+              "DocumentMoniker": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\Scene8g.h",
+              "RelativeDocumentMoniker": "ComponentFramework\\Scene8g.h",
+              "ToolTip": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\Scene8g.h",
+              "RelativeToolTip": "ComponentFramework\\Scene8g.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-07T15:15:40.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Body.cpp",
               "DocumentMoniker": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\Body.cpp",
               "RelativeDocumentMoniker": "ComponentFramework\\Body.cpp",
               "ToolTip": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\Body.cpp",
               "RelativeToolTip": "ComponentFramework\\Body.cpp",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAowHkAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAkwHkAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-04-09T16:40:29.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-09T16:40:29.338Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Scene5g.cpp",
               "DocumentMoniker": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\Scene5g.cpp",
               "RelativeDocumentMoniker": "ComponentFramework\\Scene5g.cpp",
               "ToolTip": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\Scene5g.cpp",
               "RelativeToolTip": "ComponentFramework\\Scene5g.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAByAAAAAAAAAA==",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAAANEAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-04-01T17:25:56.233Z"
+              "WhenOpened": "2026-04-01T17:25:56.233Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "texturePhongFrag.glsl",
-              "DocumentMoniker": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\shaders\\tex\\texturePhongFrag.glsl",
-              "RelativeDocumentMoniker": "ComponentFramework\\shaders\\tex\\texturePhongFrag.glsl",
-              "ToolTip": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\shaders\\tex\\texturePhongFrag.glsl",
-              "RelativeToolTip": "ComponentFramework\\shaders\\tex\\texturePhongFrag.glsl",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-03-21T16:20:33.109Z"
+              "DocumentIndex": 2,
+              "Title": "Scene4g.cpp",
+              "DocumentMoniker": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\Scene4g.cpp",
+              "RelativeDocumentMoniker": "ComponentFramework\\Scene4g.cpp",
+              "ToolTip": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\Scene4g.cpp",
+              "RelativeToolTip": "ComponentFramework\\Scene4g.cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-21T16:18:53.546Z"
             },
             {
               "$type": "Document",
@@ -81,31 +113,31 @@
               "RelativeDocumentMoniker": "ComponentFramework\\shaders\\tex\\texturePhongVert.glsl",
               "ToolTip": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\shaders\\tex\\texturePhongVert.glsl",
               "RelativeToolTip": "ComponentFramework\\shaders\\tex\\texturePhongVert.glsl",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvxYAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvx4AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-03-21T16:20:32.542Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Scene4g.cpp",
-              "DocumentMoniker": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\Scene4g.cpp",
-              "RelativeDocumentMoniker": "ComponentFramework\\Scene4g.cpp",
-              "ToolTip": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\Scene4g.cpp",
-              "RelativeToolTip": "ComponentFramework\\Scene4g.cpp",
-              "ViewState": "AgIAAEgAAAAAAAAAAADwv/YAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-21T16:18:53.546Z"
+              "DocumentIndex": 1,
+              "Title": "texturePhongFrag.glsl",
+              "DocumentMoniker": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\shaders\\tex\\texturePhongFrag.glsl",
+              "RelativeDocumentMoniker": "ComponentFramework\\shaders\\tex\\texturePhongFrag.glsl",
+              "ToolTip": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\shaders\\tex\\texturePhongFrag.glsl",
+              "RelativeToolTip": "ComponentFramework\\shaders\\tex\\texturePhongFrag.glsl",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-21T16:20:33.109Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SceneManager.cpp",
               "DocumentMoniker": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\SceneManager.cpp",
               "RelativeDocumentMoniker": "ComponentFramework\\SceneManager.cpp",
               "ToolTip": "E:\\Documents\\GithubDir\\Framework-25.0.0-Graphics\\ComponentFramework\\SceneManager.cpp",
               "RelativeToolTip": "ComponentFramework\\SceneManager.cpp",
-              "ViewState": "AgIAAJMAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAIYAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-03-21T16:17:58.934Z"
             }

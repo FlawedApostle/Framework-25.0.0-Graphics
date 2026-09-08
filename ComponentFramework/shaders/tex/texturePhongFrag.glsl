@@ -47,5 +47,6 @@ void main() {
 	vec4 color1 = (AMB[1] + (DIFFUSE_DOT[1]  * DIFF[1]) + (SPECULAR_DOT[1] * SPEC[1])) * kt;	
 //	vec4 color1 = (AMB[1] + (diff * DIFF[1]) + (spec * SPEC[1])) * kt;	
 		/// draw
+//	fragColor =  color0;
 	fragColor =  color0 + color1;
 }
